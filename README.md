@@ -1,6 +1,6 @@
 # YANGO Telegram Bot
 
-YANGO is a Telegram bot designed to facilitate user engagement and reward distribution within the YANGO community. The bot allows users to participate in competitions, check their payment status, and receive rewards.
+YANGO is a Telegram bot designed to facilitate user engagement and reward distribution within the YANGO community. The bot allows users to participate in competitions, check their subscription status, and receive rewards.
 
 ## Features
 
